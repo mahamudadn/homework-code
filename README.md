@@ -16,4 +16,5 @@ The codes of this website uses two languaes:
 
 Auther Name: Mahamud Aden
 Email: mahamudadn@gmail.com
-(./homework-code/assets/images/Onlin-markt-web.png)
+https://mahamudadn.github.io/homework-code/
+(./homework-code/assets/images/Onlin-markt-web.png) 
